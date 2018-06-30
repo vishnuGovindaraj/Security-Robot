@@ -1,0 +1,91 @@
+﻿Build started 2014-02-26 9:54:45 AM.
+     1>Project "D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\ArNetworking\src\ArNetworkingStatic-vc2010.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../include /I../include /ZI /nologo /W3 /WX- /Od /Oy- /D _DEBUG /D WIN32 /D _LIB /D ARIA_STATIC /D _MBCS /Gm- /EHsc /MTd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"../obj/ArNetworkingStatic-Debug-VC10-Static\\" /Fd"../obj/ArNetworkingStatic-Debug-VC10-Static\ArNetworkingStaticDebugVC10-VC10.pdb" /Gd /TP /analyze- /errorReport:prompt ArCentralForwarder.cpp ArCentralManager.cpp ArClientArgUtils.cpp ArClientSwitchManager.cpp ArHybridForwarderVideo.cpp ArMapChanger.cpp ArServerData.cpp ArServerFileUtils.cpp ArServerHandlerCamera.cpp ArServerHandlerCameraCollection.cpp ArServerHandlerCommands.cpp ArServerHandlerCommMonitor.cpp ArServerHandlerConfig.cpp ArServerHandlerMap.cpp ArServerHandlerMapping.cpp ArServerHandlerPopup.cpp ArServerInfoDrawings.cpp ArServerInfoRobot.cpp ArServerInfoSensor.cpp ArServerInfoStrings.cpp ArServerMode.cpp ArServerModeDrive.cpp ArServerModeIdle.cpp ArServerModeRatioDrive.cpp ArServerModeStop.cpp ArServerModeWander.cpp ArServerSimpleCommands.cpp ArServerSimpleOpener.cpp
+         ArCentralForwarder.cpp
+         ArCentralManager.cpp
+         ArClientArgUtils.cpp
+         ArClientSwitchManager.cpp
+         ArHybridForwarderVideo.cpp
+         ArMapChanger.cpp
+         ArServerData.cpp
+         ArServerFileUtils.cpp
+         ArServerHandlerCamera.cpp
+         ArServerHandlerCameraCollection.cpp
+         ArServerHandlerCommands.cpp
+         ArServerHandlerCommMonitor.cpp
+         ArServerHandlerConfig.cpp
+         ArServerHandlerMap.cpp
+         ArServerHandlerMapping.cpp
+         ArServerHandlerPopup.cpp
+         ArServerInfoDrawings.cpp
+         ArServerInfoRobot.cpp
+         ArServerInfoSensor.cpp
+         ArServerInfoStrings.cpp
+         Generating Code...
+         Compiling...
+         ArServerMode.cpp
+         ArServerModeDrive.cpp
+         ArServerModeIdle.cpp
+         ArServerModeRatioDrive.cpp
+         ArServerModeStop.cpp
+         ArServerModeWander.cpp
+         ArServerSimpleCommands.cpp
+         ArServerSimpleOpener.cpp
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../include /I../include /ZI /nologo /W3 /WX- /Od /Oy- /D _DEBUG /D WIN32 /D _LIB /D ARIA_STATIC /D _MBCS /Gm- /EHsc /RTC1 /MTd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"../obj/ArNetworkingStatic-Debug-VC10-Static\\" /Fd"../obj/ArNetworkingStatic-Debug-VC10-Static\ArNetworkingStaticDebugVC10-VC10.pdb" /Gd /TP /analyze- /errorReport:prompt ArClientBase.cpp ArNetPacket.cpp ArNetPacketReceiverTcp.cpp ArNetPacketReceiverUdp.cpp ArNetPacketSenderTcp.cpp ArServerBase.cpp ArServerClient.cpp
+         ArClientBase.cpp
+         ArNetPacket.cpp
+         ArNetPacketReceiverTcp.cpp
+         ArNetPacketReceiverUdp.cpp
+         ArNetPacketSenderTcp.cpp
+         ArServerBase.cpp
+         ArServerClient.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:".\../../lib\ArNetworkingStaticDebugVC10.lib" /NOLOGO /NODEFAULTLIB:libcmtd.lib "../obj/ArNetworkingStatic-Debug-VC10-Static\ArCentralForwarder.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArCentralManager.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArClientArgUtils.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArClientBase.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArClientData.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArClientFileUtils.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArClientHandlerConfig.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArClientSimpleConnector.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArClientSwitchManager.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArHybridForwarderVideo.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArMapChanger.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArNetPacket.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArNetPacketReceiverTcp.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArNetPacketReceiverUdp.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArNetPacketSenderTcp.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerBase.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerClient.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerData.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerFileUtils.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerHandlerCamera.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerHandlerCameraCollection.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerHandlerCommands.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerHandlerCommMonitor.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerHandlerConfig.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerHandlerMap.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerHandlerMapping.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerHandlerPopup.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerInfoDrawings.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerInfoRobot.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerInfoSensor.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerInfoStrings.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerMode.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerModeDrive.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerModeIdle.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerModeRatioDrive.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerModeStop.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerModeWander.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerSimpleCommands.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerSimpleOpener.obj"
+         "../obj/ArNetworkingStatic-Debug-VC10-Static\ArServerUserInfo.obj"
+         ArNetworkingStatic-vc2010.vcxproj -> D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\ArNetworking\src\.\../../lib\ArNetworkingStaticDebugVC10.lib
+     1>Done Building Project "D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\ArNetworking\src\ArNetworkingStatic-vc2010.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:56.28

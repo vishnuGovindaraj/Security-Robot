@@ -1,0 +1,15 @@
+﻿Build started 2014-02-26 10:08:08 PM.
+     1>Project "D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\test\test.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\Win32\Debug\\test.exe" /NOLOGO /LIBPATH:D:\Qt\5.2.1\msvc2010\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\Win32\Debug\test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\Win32\Debug\test.lib" /MACHINE:X86 /SAFESEH Debug\main.obj
+         Debug\test.obj
+     1>qtmaind.lib(qtmain_win.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1600' doesn't match value '1800' in main.obj
+     1>test.obj : error LNK2001: unresolved external symbol "public: virtual struct QMetaObject const * __thiscall test::metaObject(void)const " (?metaObject@test@@UBEPBUQMetaObject@@XZ)
+     1>test.obj : error LNK2001: unresolved external symbol "public: virtual void * __thiscall test::qt_metacast(char const *)" (?qt_metacast@test@@UAEPAXPBD@Z)
+     1>test.obj : error LNK2001: unresolved external symbol "public: virtual int __thiscall test::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@test@@UAEHW4Call@QMetaObject@@HPAPAX@Z)
+     1>D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\Win32\Debug\\test.exe : fatal error LNK1120: 3 unresolved externals
+     1>Done Building Project "D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\test\test.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.58

@@ -1,0 +1,14 @@
+﻿Build started 2014-02-26 4:37:33 PM.
+     1>Project "D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\QTClientApplication\QTClientApplication.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Moc'ing qtclientapplication.h...
+         Uic'ing qtclientapplication.ui...
+         The system cannot find the path specified.
+         Rcc'ing qtclientapplication.qrc...
+         The system cannot find the path specified.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(170,5): error MSB6006: "cmd.exe" exited with code 3.
+     1>Done Building Project "D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\QTClientApplication\QTClientApplication.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.29

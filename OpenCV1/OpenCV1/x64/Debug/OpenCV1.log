@@ -1,0 +1,13 @@
+﻿Build started 2014-03-17 11:20:35 PM.
+     1>Project "D:\Users\Mike\Documents\Visual Studio 2013\Projects\OpenCV1\OpenCV1\OpenCV1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /ID:\opencv\build\x86\vc10\..\..\include /ID:\opencv\build\x86\vc10\lib /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt make.cpp
+         make.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\Mike\Documents\Visual Studio 2013\Projects\OpenCV1\x64\Debug\OpenCV1.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\opencv\build\x64\vc12\lib /LIBPATH:D:\opencv\build\x86\vc10\lib opencv_core248d.lib opencv_imgproc248d.lib opencv_highgui248d.lib opencv_ml248d.lib opencv_video248d.lib opencv_features2d248d.lib opencv_calib3d248d.lib opencv_objdetect248d.lib opencv_contrib248d.lib opencv_legacy248d.lib opencv_flann248d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\Mike\Documents\Visual Studio 2013\Projects\OpenCV1\x64\Debug\OpenCV1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\Mike\Documents\Visual Studio 2013\Projects\OpenCV1\x64\Debug\OpenCV1.lib" /MACHINE:X64 x64\Debug\make.obj
+         OpenCV1.vcxproj -> D:\Users\Mike\Documents\Visual Studio 2013\Projects\OpenCV1\x64\Debug\OpenCV1.exe
+     1>Done Building Project "D:\Users\Mike\Documents\Visual Studio 2013\Projects\OpenCV1\OpenCV1\OpenCV1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.09

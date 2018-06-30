@@ -1,0 +1,10 @@
+﻿Build started 2014-02-25 4:53:28 PM.
+     1>Project "D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\utils\makeParams.vcxproj" on node 3 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\\bin\makeParamsDebug.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\lib AriaDebugVC10.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\\bin\makeParamsDebug.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\\bin\makeParamsDebug.lib" /MACHINE:X86 "obj\makeParams-Debug-VC10\makeParams.obj"
+         makeParams.vcxproj -> D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\\bin\makeParamsDebug.exe
+     1>Done Building Project "D:\Users\Mike\Documents\Visual Studio 2013\Projects\Pioneer\utils\makeParams.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.78
